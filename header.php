@@ -32,7 +32,6 @@
 		<div class="grid_2" id="outsideLinks">
 			<ul>
 				<li><a href="http://rocklinestates.com/">Rocklin Estates <span class="navComment">55+</span></a></li>
-				<li><a href="http://sutterstreetmhp.com/">Sutter Street</a></li>
 			</ul>
 		</div> <!-- End outsideLinks -->
 	</header>
