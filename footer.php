@@ -2,7 +2,7 @@
 	
 <footer>
 <?php if(is_home()): ?>
-<p>Sigrist Homes is an "in-park" dealer offering new Redman and Skyline manufactured homes.  We are directly associated with the <a href="http://rocklinestates.com">Rocklin Estates Mobile Home Park in Rocklin, CA</a>, a senior community, and the <a href="http://sutterstreetmhp.com">Sutter Street Mobile Home Park in Yuba City, CA</a>.</p>
+<p>Sigrist Homes is an "in-park" dealer offering new Redman manufactured homes.  We are directly associated with the <a href="http://rocklinestates.com">Rocklin Estates Mobile Home Park in Rocklin, CA</a>, a senior community.</p>
 <?php endif; ?>
 
 <p class="contactfooter">

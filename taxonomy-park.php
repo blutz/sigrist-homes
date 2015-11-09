@@ -14,9 +14,9 @@ switch($park_name) {
 }
 
 ?>
-<div class="grid_12">
+<!--<div class="grid_12">
 	<a href="<?php echo get_permalink(270); ?>">&larr;More homes for sale</a>
-</div>
+</div>-->
 	
 <section class="grid_9">
 	<h1 class="pagename">Homes in <?php echo $park_name; ?>
