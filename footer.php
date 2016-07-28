@@ -6,7 +6,7 @@
 <?php endif; ?>
 
 <p class="contactfooter">
-(916)390-5561 | <a href="mailto:info@sigristhomes.com">info@sigristhomes.com</a> | 5505 S. Grove St., Rocklin, CA
+916-624-2108 | <a href="mailto:frank@sigristhomes.com">frank@sigristhomes.com</a> | 5505 S. Grove St., Rocklin, CA
 </p>
 <p>
 <a href="<?php echo get_permalink(294); ?>">Privacy Policy</a> | &copy; Sigrist Homes <?php echo date('Y'); ?>
